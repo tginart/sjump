@@ -1,0 +1,2 @@
+# sjump
+Slurm utility script
